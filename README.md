@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/suhaeb2003/suhaeb2003/main/assets/github-banner.png" alt="Md Suhaeb Hosen - Full Stack Web Developer" width="100%" />
+  <img src="https://github.com/suhaeb2003/suhaeb2003/blob/main/README.md" alt="Md Suhaeb Hosen - Full Stack Web Developer" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Md Suhaeb Hosen</h1>
 <h3 align="center">Full Stack Web Developer | PHP Laravel | Vue.js | Trainer at CodeCareBD</h3>
