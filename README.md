@@ -23,6 +23,14 @@
 - 💬 **Ask me about:** Laravel, Vue.js, Tailwind CSS, API Development, Teaching Web Development  
 
 ---
+### 💼 My Completing Project 
+- 🧑‍💻 **Currently working on:** [DHL. Logistics for the Connected Age.]([https://github.com/suhaeb2003/dhl](https://www.dhl.com/bd-en/home.html?locale=true))  
+- 🤝 **Looking to collaborate on:** [Open Source Laravel Projects](https://github.com/suhaeb2003)  
+- 🆘 **Looking for help with:** Vue.js + Laravel Integration  
+- 🌱 **Learning:** Inertia.js, GSAP, Laravel Advanced Topics  
+- 💬 **Ask me about:** Laravel, Vue.js, Tailwind CSS, API Development, Teaching Web Development  
+
+---
 
 ### 📫 How to Reach Me  
 - ✉️ **Email:** [mdsuhaebhosen@gmail.com](mailto:codersuhaeb@gmail.com)  
