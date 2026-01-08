@@ -14,23 +14,32 @@
 🌱 I’m currently learning **Inertia.js**, **GSAP Animation**, and advanced **Laravel features**.  
 
 ---
+### 💼 My Completing Project 
+**Front End Project**
+-  **DHL:** [www.dhl.com](https://www.dhl.com/)  
+-  **Adumix:** [www.adumix.com](https://suhaeb2003.github.io/adumix/)
+-  **DHL:** [www.dhl.com](https://www.dhl.com/)
+-  **City Deshbord:** [City Deshbord](https://suhaeb2003.github.io/city-deshbord/)
+**BACK END**
+-  **Giftos Ecommerce:** [Giftos-Ecommerce](https://github.com/suhaeb2003/Giftos-ecommerce)
+-  **Car Rental App:** [Car Rental App](https://github.com/suhaeb2003/car-rental-app)
+-  **Event Management:** [Event Management](https://github.com/suhaeb2003/event-view)
+-  **Event Management:** [Event Management](https://github.com/suhaeb2003/event-view)
+-  **POS Application:** [Pos Application]([https://github.com/suhaeb2003/event-view](https://github.com/suhaeb2003/POSpro))
+**WordPress Project**
+-  **KG GOLF:** [kggolf.com](https://kggolf.com/)
+-  **BDL Recharge Point:** [BD Online Recharge](https://bdlprechargepoint.com/)
+-  **Nandonik Furniture:** [Nandonik Furniture](https://nandanikfurniture.com/)
+---
 
 ### 💼 Work  
-- 🧑‍💻 **Currently working on:** [DHL. Logistics for the Connected Age.]([https://github.com/suhaeb2003/dhl](https://www.dhl.com/bd-en/home.html?locale=true))  
+- 🧑‍💻 **Currently working on:** [CODECAREBD]([https://codecarebd.com))  
 - 🤝 **Looking to collaborate on:** [Open Source Laravel Projects](https://github.com/suhaeb2003)  
 - 🆘 **Looking for help with:** Vue.js + Laravel Integration  
 - 🌱 **Learning:** Inertia.js, GSAP, Laravel Advanced Topics  
 - 💬 **Ask me about:** Laravel, Vue.js, Tailwind CSS, API Development, Teaching Web Development  
 
 ---
-### 💼 My Completing Project 
-**Front End**
--  **DHL:** [www.dhl.com](https://www.dhl.com/)  
--  **Adumix:** [www.adumix.com](https://suhaeb2003.github.io/adumix/)
--  **DHL:** [www.dhl.com](https://www.dhl.com/)  
-
----
-
 ### 📫 How to Reach Me  
 - ✉️ **Email:** [mdsuhaebhosen@gmail.com](mailto:codersuhaeb@gmail.com)  
 - 🌐 **Portfolio:** [https://codersuhaeb.netlify.app](https://codersuhaeb.netlify.app/)  
