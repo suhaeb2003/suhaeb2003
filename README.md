@@ -14,23 +14,37 @@
 🌱 I’m currently learning **Inertia.js**, **GSAP Animation**, and advanced **Laravel features**.  
 
 ---
-### 💼 My Completing Project 
-**Front End Project**
--  **DHL:** [www.dhl.com](https://www.dhl.com/)  
--  **Adumix:** [www.adumix.com](https://suhaeb2003.github.io/adumix/)
--  **DHL:** [www.dhl.com](https://www.dhl.com/)
--  **City Deshbord:** [City Deshbord](https://suhaeb2003.github.io/city-deshbord/)
-   **BACK END**
--  **Giftos Ecommerce:** [Giftos-Ecommerce](https://github.com/suhaeb2003/Giftos-ecommerce)
--  **Car Rental App:** [Car Rental App](https://github.com/suhaeb2003/car-rental-app)
--  **Event Management:** [Event Management](https://github.com/suhaeb2003/event-view)
--  **Event Management:** [Event Management](https://github.com/suhaeb2003/event-view)
--  **POS Application:** [Pos Application]([https://github.com/suhaeb2003/event-view](https://github.com/suhaeb2003/POSpro))
-**WordPress Project**
-**Front End Project**
--  **KG GOLF:** [kggolf.com](https://kggolf.com/)
--  **BDL Recharge Point:** [BD Online Recharge](https://bdlprechargepoint.com/)
--  **Nandonik Furniture:** [Nandonik Furniture](https://nandanikfurniture.com/)
+### 💼 My Completed Projects
+━━━━━━━━━━━━━━━━━━━━
+🚀 Front End Projects
+━━━━━━━━━━━━━━━━━━━━
+- 🌐 **DHL (UI Reference)**  
+  https://www.dhl.com/
+- 🎨 **Adumix**  
+  https://suhaeb2003.github.io/adumix/
+- 📊 **City Dashboard**  
+  https://suhaeb2003.github.io/city-deshbord/
+━━━━━━━━━━━━━━━━━━━━
+⚙️ Back End Projects (Laravel / PHP)
+━━━━━━━━━━━━━━━━━━━━
+- 🛒 **Giftos Ecommerce**  
+  https://github.com/suhaeb2003/Giftos-ecommerce
+- 🚗 **Car Rental App**  
+  https://github.com/suhaeb2003/car-rental-app
+- 🎫 **Event Management System**  
+  https://github.com/suhaeb2003/event-view
+- 🧾 **POS Application**  
+  https://github.com/suhaeb2003/POSpro
+━━━━━━━━━━━━━━━━━━━━
+🌍 WordPress Projects
+━━━━━━━━━━━━━━━━━━━━
+- 🏌️ **KG GOLF**  
+  https://kggolf.com/
+- 💳 **BDL Recharge Point**  
+  https://bdlprechargepoint.com/
+- 🛋️ **Nandonik Furniture**  
+  https://nandanikfurniture.com/
+
 ---
 
 ### 💼 Work  
