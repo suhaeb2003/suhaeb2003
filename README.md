@@ -15,33 +15,45 @@
 
 ---
 ### 💼 My Completed Projects
+
 ━━━━━━━━━━━━━━━━━━━━
 🚀 Front End Projects
 ━━━━━━━━━━━━━━━━━━━━
 - 🌐 **DHL (UI Reference)**  
   https://www.dhl.com/
+
 - 🎨 **Adumix**  
   https://suhaeb2003.github.io/adumix/
+
 - 📊 **City Dashboard**  
   https://suhaeb2003.github.io/city-deshbord/
+
+
 ━━━━━━━━━━━━━━━━━━━━
 ⚙️ Back End Projects (Laravel / PHP)
 ━━━━━━━━━━━━━━━━━━━━
 - 🛒 **Giftos Ecommerce**  
   https://github.com/suhaeb2003/Giftos-ecommerce
+
 - 🚗 **Car Rental App**  
   https://github.com/suhaeb2003/car-rental-app
+
 - 🎫 **Event Management System**  
   https://github.com/suhaeb2003/event-view
+
 - 🧾 **POS Application**  
   https://github.com/suhaeb2003/POSpro
+
+
 ━━━━━━━━━━━━━━━━━━━━
 🌍 WordPress Projects
 ━━━━━━━━━━━━━━━━━━━━
 - 🏌️ **KG GOLF**  
   https://kggolf.com/
+
 - 💳 **BDL Recharge Point**  
   https://bdlprechargepoint.com/
+
 - 🛋️ **Nandonik Furniture**  
   https://nandanikfurniture.com/
 
