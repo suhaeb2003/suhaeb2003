@@ -26,9 +26,8 @@
 
 ### 📫 How to Reach Me  
 - ✉️ **Email:** [mdsuhaebhosen@gmail.com](mailto:codersuhaeb@gmail.com)  
-- 🌐 **Portfolio:** [https://codecarebd.com](https://codecarebd.com)  
+- 🌐 **Portfolio:** [https://codersuhaeb.netlify.app](https://codersuhaeb.netlify.app/)  
 - 🧰 **GitHub:** [github.com/suhaebhosen](https://github.com/suhaeb2003)  
-- 📝 **Blog:** [codecarebd.com/blog](https://codecarebd.com/blog)  
 - 📄 **Resume:** [suhaebhosen.github.io/resume](https://suhaebhosen.github.io/resume)  
 
 ---
